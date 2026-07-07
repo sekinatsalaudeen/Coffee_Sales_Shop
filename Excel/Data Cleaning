@@ -1,0 +1,7 @@
+* Removed duplicates and unnecessary spaces.
+* Cleaned hidden characters and handled missing values.
+* Corrected and standardized data types and formats.
+* Split date and time into separate fields where needed.
+* Used lookup functions to validate and populate related data.
+* Identified non-unique keys for handling during data modeling.
+* Prepared a clean dataset for Power Query and Power BI.
